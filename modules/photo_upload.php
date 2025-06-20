@@ -1,0 +1,1 @@
+這是 photo_upload.php 的範例內容。
